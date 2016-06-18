@@ -1,6 +1,6 @@
 # Rikka-chan
 
-How to use:\n
+How to use
 1.Download the .flo file
 2.Download & and install Automate from PlayStore
 3.Tap import file
