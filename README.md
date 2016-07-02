@@ -2,7 +2,7 @@
 
 How to use
 1.Download the .flo file
-2.Download & and install Automate from PlayStore
+2.Download & and install Automate PRO from PlayStore
 3.Tap import file
 4.Find Rikka-chan.flo
 5.Import it
